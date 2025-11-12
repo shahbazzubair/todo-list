@@ -18,5 +18,5 @@ A simple command-line **To-Do List** application built with Python. This app all
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/shahbazzubair/python-todo-list](https://github.com/shahbazzubair/python-todo-list)
+    git clone https://github.com/shahbazzubair/todo-list
     ```
